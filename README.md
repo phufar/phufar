@@ -21,3 +21,7 @@ CS student @ KMITL
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/phufar"><img src="https://github-readme-stats.vercel.app/api?username=phufar&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="phufar's GitHub stats" /></a>
+
+### ETC
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true)
