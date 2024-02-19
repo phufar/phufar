@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS student @ KMITL
 ------------------
 
-*   ✉️  You can contact me at [peakpeakpeakhaha@gmail.com](mailto:peakpeakpeakhaha@gmail.com) and [66050971@kmitl.ac.th](mailto:66050971@kmitl.ac.th)
+*   ✉️  You can contact me at [peakpeakpeakhaha@gmail.com](mailto:peakpeakpeakhaha@gmail.com) or [66050971@kmitl.ac.th](mailto:66050971@kmitl.ac.th)
 
 *   ### Skills 
 <p align="left">
