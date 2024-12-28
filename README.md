@@ -27,4 +27,4 @@ Bachelor of Computer Science @ KMITL
 
 ### ETC
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4aNr7Ek8ACwkvouELA8UOo?si=5872cd1be82143aa)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
