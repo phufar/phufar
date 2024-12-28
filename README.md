@@ -27,4 +27,4 @@ Bachelor of Computer Science @ KMITL
 
 ### ETC
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&cover&#95;image=true&theme=novatorem&show&#95;offline=false&background&#95;color=000000&interchange=false&bar&#95;color=53b14f&bar&#95;color&#95;cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4aNr7Ek8ACwkvouELA8UOo?si=5872cd1be82143aa)
