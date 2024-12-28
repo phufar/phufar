@@ -12,7 +12,7 @@ Bachelor of Computer Science @ KMITL
 * ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,postman,ubuntu,kali)](https://skillicons.dev)
 * ### Socials
-<p>
+<p style={gap=3px}>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=discord" />
     </a>
