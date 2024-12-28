@@ -26,5 +26,4 @@ Bachelor of Computer Science @ KMITL
 <a href="http://www.github.com/phufar"><img src="https://github-readme-stats.vercel.app/api?username=phufar&show&#95;icons=true&hide=&count&#95;private=true&title&#95;color=ef4444&text&#95;color=ffffff&icon&#95;color=ef4444&bg&#95;color=1c1917&hide&#95;border=true&show&#95;icons=true" alt="phufars GitHub stats" /></a>
 
 ### ETC
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true)
