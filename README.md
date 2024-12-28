@@ -10,7 +10,7 @@ Bachelor of Computer Science @ KMITL
 * ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=svelte,tailwind)](https://skillicons.dev) 
 * ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,postman,ubuntu,kali)](https://skillicons.dev)
 * ### Socials
 
 * ### Badges
