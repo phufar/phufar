@@ -16,9 +16,6 @@ Bachelor of Computer Science @ KMITL
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=discord" />
     </a>
-    <a href="https://www.facebook.com/thisuserisphufar/">
-        <img src="http://i.imgur.com/fep1WsG.png">
-    </a>
     <a href="https://www.instagram.com/phxfrr/">
          <img src="https://skillicons.dev/icons/?i=instagram">
     </a>
