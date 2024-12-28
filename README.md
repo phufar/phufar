@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phufar Glingfroy
 ========================================================================================================================================
 
-CS student @ KMITL
+Bachelor of Computer Science @ KMITL
 ------------------
-*   ✉️  You can contact me at [peakpeakpeakhaha@gmail.com](mailto:peakpeakpeakhaha@gmail.com) or [66050971@kmitl.ac.th](mailto:66050971@kmitl.ac.th)
+*   ✉️  You can contact me via [peakpeakpeakhaha@gmail.com](mailto:peakpeakpeakhaha@gmail.com) or [66050971@kmitl.ac.th](mailto:66050971@kmitl.ac.th)
 
 *   ### Skills 
 <p align="left">
