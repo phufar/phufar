@@ -25,6 +25,20 @@ Bachelor of Computer Science @ KMITL
 <div>
 <a href="http://www.github.com/phufar"><img src="https://github-readme-stats.vercel.app/api?username=phufar&show&#95;icons=true&hide=&count&#95;private=true&title&#95;color=ef4444&text&#95;color=ffffff&icon&#95;color=ef4444&bg&#95;color=1c1917&hide&#95;border=true&show&#95;icons=true" alt="phufars GitHub stats" /></a>
 </div>
+* ### ETC
+<div>
+  <!-- Spotify Profile Image -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile" />
+  </a>
+  <!-- Link under the Spotify Profile Image -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true">View Spotify Profile</a>
+</div>
+
+<!-- Death Clock Badge -->
+<a href="https://www.death-clock.org">
+  <img src="https://www.death-clock.org/death-clock-badge1.php?dod=Friday, 25th September&yod=2076&aod=Age 71" alt="My Death Clock quiz results" width="220" height="180" border="0" />
+</a>
 <div>
 ### ETC
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true)
