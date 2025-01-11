@@ -40,10 +40,3 @@ Bachelor of Computer Science @ KMITL
   <img src="https://www.death-clock.org/death-clock-badge1.php?dod=Friday, 25th September&yod=2076&aod=Age 71" alt="My Death Clock quiz results" width="220" height="180" border="0" />
 </a>
 <div>
-### ETC
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7wxwil22kwnayqp6ag5ise64e&redirect=true)
-</div>
-<a href="https://www.death-clock.org">
-<img src="https://www.death-clock.org/death-clock-badge1.php?dod=Friday, 25th September&yod=2076&aod=Age 71" alt="My Death Clock quiz results" width="220" height="180" border="0" />
-</a>
-							
